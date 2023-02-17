@@ -8,7 +8,7 @@ img{
 }
 @font-face {
     font-family: 'futura';
-    src: url('/font-family/futura\ medium\ bt.ttf') format('truetype');
+    src: url('font-family/futura\ medium\ bt.ttf') format('truetype');
 }
 body{
     font-family: 'futura';
@@ -40,13 +40,13 @@ body{
     border-radius:32px;
 }
 .pattern-licu{
-    background-image: url(/images/bg-licu.png);
+    background-image: url(images/bg-licu.png);
 }
 .pattern-ecplo{
-    background-image: url(/images/bg-ecplo.png);
+    background-image: url(images/bg-ecplo.png);
 }
 .pattern-compa{
-    background-image: url(/images/bg-compa.png);
+    background-image: url(images/bg-compa.png);
 }
 .exploration-logo{
     width: 7.4rem;
